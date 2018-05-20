@@ -17,7 +17,7 @@ Installation is simple. It can be installed from git using the following command
 $ pkg install python
 $ pkg install git
 $ pip install requests
-$ git clone https://github.com/albertoanggi/xl-py
+$ git clone https://github.com/muhammaddadun/xl-py
 ```
 
 ## Usage
